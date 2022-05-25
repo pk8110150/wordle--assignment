@@ -1,0 +1,2 @@
+save file in htdocs
+run xampp
